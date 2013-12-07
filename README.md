@@ -1,7 +1,7 @@
 Psistats Linux Client
 =====================
 
-Version: 0.0.1
+Version: 0.0.2
 --------------
 
 Python linux client that sends some computer statistics to a RabbitMQ
